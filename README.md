@@ -23,7 +23,7 @@
     <hr>
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="360" height="220" />
 
 - 🔭 I’m currently working on **frontend development in the banking domain, implementing Microservices**
 
