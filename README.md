@@ -23,6 +23,8 @@
     <hr>
 </div>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+
 - 🔭 I’m currently working on **frontend development in the banking domain, implementing Microservices**
 
 - 🌱 I’m currently learning **advanced front-end and cloud development techniques**
