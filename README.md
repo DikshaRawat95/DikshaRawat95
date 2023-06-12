@@ -6,6 +6,8 @@
   <p align="center"> 
     
    <img src="https://vbr.wocr.tk/badge?page_id=diksharawat95&color=00cf00" alt="Profile Views" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://diksharawat95.netlify.app/"><img src="https://img.shields.io/badge/portfolio-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" width="80" height="20" /></a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DikshaRawat95)
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [![Leetcode](https://img.shields.io/badge/-Leetcode-000?style=flat&logo=Leetcode&logoColor=yellow)](https://leetcode.com/diksharawat1595/)
