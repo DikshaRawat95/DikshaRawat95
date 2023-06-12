@@ -116,6 +116,6 @@
 
 ###  My GitHub Stats : :
 
-<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DikshaRawat95&theme=blue_green" /></a>
+<a href="http://www.github.com/DikshaRawat95"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DikshaRawat95&theme=blue_green" /></a>
 
-<a href="http://www.github.com/DikshaRawat95"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DikshaRawat95&theme=blue_green" /></a><a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhupi2508&theme=blue_green"/></a>
+<a href="http://www.github.com/DikshaRawat95"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DikshaRawat95&theme=blue_green" /></a><a href="http://www.github.com/DikshaRawat95"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DikshaRawat95&theme=blue_green"/></a>
